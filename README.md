@@ -7,3 +7,5 @@ The objective of this game is to dodge the obstacles and get the best score you 
 # Controls
 
 Use the arrow keys to move the circle
+
+If you hit an obstacle, hit space to restart
